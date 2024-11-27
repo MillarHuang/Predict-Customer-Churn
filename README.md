@@ -25,7 +25,7 @@ This project provides a workflow of building models on predicting customers who 
 
 * Run the blocks on **churn_notebook.ipynb** to show the workflow of building predictive model of churn rate and get the model performances
 
-* Do unit test on all input function in **churn_library.py**, the testing result will be logged in logs/churn_library.log:
+* Do unit test on all input function in **churn_library.py**, the testing result will be produced in logs/churn_library.log:
     * (Run on terminal) python -m churn_script_logging_and_tests
     * (or use pytest) pytest --log-file=./logs/churn_library.log --log-file-level=INFO churn_script_logging_and_tests.py
 
