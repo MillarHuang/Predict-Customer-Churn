@@ -20,14 +20,12 @@ This project provides a workflow of building models on predicting customers who 
 
 
 ## Running Files
-How do you run your files? What should happen when you run your files?
-
 * Install the necessary packages for this project under python 3.10:
     * (Run on terminal) python -m pip install -r requirements_py3.10.txt
 
 * Run the blocks on **churn_notebook.ipynb** to show the workflow of building predictive model of churn rate and get the model performances
 
-* Do unit test on all input function **in churn_library.py**, the testing result will be logged in logs/churn_library.log:
+* Do unit test on all input function in **churn_library.py**, the testing result will be produced in logs/churn_library.log:
     * (Run on terminal) python -m churn_script_logging_and_tests
     * (or use pytest) pytest --log-file=./logs/churn_library.log --log-file-level=INFO churn_script_logging_and_tests.py
 
