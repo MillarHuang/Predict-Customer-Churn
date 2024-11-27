@@ -1,0 +1,6 @@
+.venv
+.pytest_cache
+__pycache__
+requirements_py3.6.txt
+requirements_py3.8.txt
+churn_notebook_original.ipynb

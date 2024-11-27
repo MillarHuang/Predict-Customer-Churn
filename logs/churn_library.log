@@ -1,0 +1,12 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: Running function SUCCESS
+root - INFO - Testing perform_eda: All EDA plots are completely produced SUCCESS
+root - INFO - Testing encoder_helper: Running function SUCCESS
+root - INFO - Testing encoder_helper: Produced expected columns SUCCESS
+root - INFO - Testing perform_feature_engineering: Running function SUCCESS
+root - INFO - Testing perform_feature_engineering: The shape of training/test
+                     set is as expected SUCCESS
+root - INFO - Testing train_models: Running function SUCCESS
+root - INFO - Testing train_models: Model is completely stored SUCCESS
+root - INFO - Testing train_models: Classification report is completed SUCCESS
+root - INFO - Testing train_models: Feature importance plot is completed SUCCESS
