@@ -20,8 +20,6 @@ This project provides a workflow of building models on predicting customers who 
 
 
 ## Running Files
-How do you run your files? What should happen when you run your files?
-
 * Install the necessary packages for this project under python 3.10:
     * (Run on terminal) python -m pip install -r requirements_py3.10.txt
 
